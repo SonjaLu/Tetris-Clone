@@ -1,7 +1,7 @@
  For Windows user
 
-
 Tetris Game
+
 This repository contains a Tetris game built using Python and Pygame. It's a simple and fun implementation of the classic Tetris game.
 
 Prerequisites
@@ -10,7 +10,6 @@ Before running the game, ensure you have Python installed on your system. You ca
 Additionally, you will need Pygame, a set of Python modules designed for writing video games.
 
 Installation
-Clone the Repository
 
 First, clone the repository to your local machine using Git:
 
